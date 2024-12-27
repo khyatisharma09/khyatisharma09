@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khyati Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **a webflow project**
+- 🔭 I’m currently working on **a Data Science project**
 
-- 🌱 I’m currently learning **javascript libraries**
+- 🌱 I’m currently learning **Python libraries**
 
 - 📫 How to reach me **khyati1750@gmail.com**
 
